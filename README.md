@@ -25,7 +25,7 @@
 ## 快速安装
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/drama-script.git
+git clone https://github.com/tianjiangchris/drama-script.git
 cd drama-script
 chmod +x install.sh
 ./install.sh
